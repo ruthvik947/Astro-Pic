@@ -1,0 +1,9 @@
+{
+	"name": "New Tab Astro Pic",
+	"version": "1.0",
+	"description": "Astronomy Pic of the Day", 
+	"chrome_url_overrides" : {
+		"newtab": "redirect.html"
+	},
+	"manifest_version": 2
+}
